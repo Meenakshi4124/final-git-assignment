@@ -32,3 +32,5 @@ TY-CS | Final Project Submission
 ---
 
 🌟 Thank you for checking out my project!
+🚀 This line was added in merge-demo branch for Task 2.
+
